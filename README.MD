@@ -1,0 +1,47 @@
+# Homework 1
+* User for TA's is called "grader" with password '123' on Apache server.
+* SSH private key for root user is:
+Can do "ssh grader@137.184.115.212 "location to file containing private key"
+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 dhava@DESKTOP-7SGN1D5
+
+
+* Website is http://dhavaljjani.xyz
+* After compressing using mod_deflate, the html reduces in size, and this was reflected in the network tab of the devtools for the website. We can see this worked in compression-verify.jpg.
+* In order to obscure server identity and remove the header from dev tools, we added some lines of code to /etc/apache2/apache2.conf, which were 
+- ServerSignature Off
+- ServerTokens Prod

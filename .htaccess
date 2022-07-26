@@ -1,0 +1,6 @@
+ErrorDocument 404 /new404.html
+
+AuthType Basic
+AuthName "Restricted Content"
+AuthUserFile /etc/apache2/.htpasswd
+Require valid-user
